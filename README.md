@@ -5,6 +5,11 @@ https://github.com/hfawaz/InceptionTime
 # RagaNet
 
 Uses InceptionTime to implement Time Series classification for Ragas (Indian classical music scales).
+
+A link to our posterboard of our project is available here: https://guitar.ucsd.edu/cosmos9/images/2/2a/RagaNet_3.pdf
+
+A link to a presentation of our project is available here: https://guitar.ucsd.edu/cosmos9/images/b/b0/Presentation-Gananet.pdf
+
 We used raga tracks from the following YouTube videos to train and test our model:
 Bhimpalasi: https://www.youtube.com/playlist?list=PL4_-RevKfOhqT0V2rqyqsCoYNjJ8jKJEq
 Desh: https://www.youtube.com/playlist?list=PL4_-RevKfOhrL4TpWkY7-bcx2J62lwCCE
